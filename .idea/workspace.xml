@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="165176f1-8968-4429-9d5e-375af407e631" name="Default" comment="" />
+    <list default="true" id="165176f1-8968-4429-9d5e-375af407e631" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/AppImage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/1-LiveApp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/ClickableOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/ClickableTwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/CoverTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/CoverTitleSmallTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/EnabledJavascriptAPI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/FormTest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/FormTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/GoogleMapsAPIGetKey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/InitialHTMLContent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/InitialLocalHost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/MapTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/MarkerTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/POSTTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/POSTTtest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/PartII.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/Images/VerifiedLocation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/WorkingCodePartI.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartI/tutorialparti.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/ClickableOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/ClickableTwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/CoverTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/CoverTitleSmallTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/EnabledJavascriptAPI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/FormTest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/FormTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/GoogleMapsAPIGetKey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/InitialHTMLContent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/InitialLocalHost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/MapDistanceLocal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/MapTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/MarkerTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/MaxDistanceGlobe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/POSTTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/POSTTtest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/PartII.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/Images/VerifiedLocation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/WorkingCodePartII.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialMaterial/PartII/tutorialpartii.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/1-LiveApp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/ClickableOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/ClickableTwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/CoverTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/CoverTitleSmallTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/EnabledJavascriptAPI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/FormTest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/FormTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/GoogleMapsAPIGetKey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/InitialHTMLContent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/InitialLocalHost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/MapTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/MarkerTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/POSTTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/POSTTtest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/PartII.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Images/VerifiedLocation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/1-LiveApp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/ClickableOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/ClickableTwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/CoverTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/CoverTitleSmallTitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/EnabledJavascriptAPI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/FormTest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/FormTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/GoogleMapsAPIGetKey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/InitialHTMLContent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/InitialLocalHost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/MapTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/MarkerTestOne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/POSTTestReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/POSTTtest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/PartII.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/Images/VerifiedLocation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/MeanMapAppV2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/PartI/WorkingCode/PartI.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorialtext/Tutorial.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mapProject.iml" afterPath="$PROJECT_DIR$/.idea/mapProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.js" afterPath="$PROJECT_DIR$/app/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/model.js" afterPath="$PROJECT_DIR$/app/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.js" afterPath="$PROJECT_DIR$/app/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/modernizr/bin/modernizr" afterPath="$PROJECT_DIR$/bower_components/modernizr/bin/modernizr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/addCtrl.js" afterPath="$PROJECT_DIR$/public/js/addCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/gservice.js" afterPath="$PROJECT_DIR$/public/js/gservice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/headerCtrl.js" afterPath="$PROJECT_DIR$/public/js/headerCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/queryCtrl.js" afterPath="$PROJECT_DIR$/public/js/queryCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/partials/addForm.html" afterPath="$PROJECT_DIR$/public/partials/addForm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/partials/queryForm.html" afterPath="$PROJECT_DIR$/public/partials/queryForm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style.css" afterPath="$PROJECT_DIR$/public/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
     <ignored path="mapProject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,14 +117,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71629214">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headerCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/headerCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queryCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/queryCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31601125">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/addCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gservice.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/gservice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,6 +211,27 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config.js" />
+        <option value="$PROJECT_DIR$/app/model.js" />
+        <option value="$PROJECT_DIR$/public/js/headerCtrl.js" />
+        <option value="$PROJECT_DIR$/public/js/queryCtrl.js" />
+        <option value="$PROJECT_DIR$/public/partials/addForm.html" />
+        <option value="$PROJECT_DIR$/public/partials/queryForm.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/bower_components/modernizr/bin/modernizr" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
+        <option value="$PROJECT_DIR$/app/routes.js" />
+        <option value="$PROJECT_DIR$/public/js/addCtrl.js" />
+        <option value="$PROJECT_DIR$/public/js/gservice.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -73,7 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -106,9 +300,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,6 +364,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="docs.js&#9;FILE&#9;file:///Users/paulsuceveanu/WebstormProjects/mapProject/node_modules/kareem/docs.js&#10;modern&#9;FILE&#9;file:///Users/paulsuceveanu/WebstormProjects/mapProject/bower_components/modernizr/bin/modernizr" />
+    <property name="editor.config.accepted" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -205,7 +452,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -247,27 +494,210 @@
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/headerCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/queryCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29577464">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/addCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/gservice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71629214">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angularjs-geolocation/dist/angularjs-geolocation.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021067416">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/addForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.541666">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/queryForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.041666">
+          <caret line="54" column="68" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/modernizr/bin/modernizr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/gservice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/addCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/headerCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3241279">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/queryCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31601125">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,9 +1,8 @@
 {
     "name": "MeanMapsApp",
     "version": "1.0.0",
-    "description": "Demo app showing the use of Google Maps in MEAN Apps",
+    "description": "Google Maps with MEAN",
     "main": "server.js",
-    "author": "Ahmed Haque",
     "dependencies" : {
         "express"    : "~4.7.2",
         "mongoose"   : "~4.1.0",

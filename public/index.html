@@ -3,8 +3,8 @@
 <html class="no-js" ng-app="meanMapApp">
 <head>
     <meta charset="utf-8">
-    <title>Scotch MEAN Map</title>
-    <meta name="description" content="An example demonstrating Google Map integration with MEAN Apps">
+    <title>MEAN map app</title>
+    <meta name="description" content="Google map integration in a MEAN app">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSS -->
@@ -37,37 +37,23 @@
 <![endif]-->
 
 <div class="container">
-    <!-- Header Menu. Note use of headerCtrl -->
     <div class="header" ng-controller="headerCtrl">
-
-        <!-- Header items are made active upon selection -->
         <ul class="nav nav-pills pull-right">
              <li ng-class="{ active: isActive('/join')}"><a href="/#/join">Join the Team</a></li>
             <li ng-class="{ active: isActive('/find')}"><a href="/#/find">Find Teammates</a></li>
         </ul>
-
-        <!-- Header Title -->
-        <h3 class="text-muted">The Scotch MEAN MapApp</h3>
+        <h3 class="text-muted">MEAN MapApp</h3>
     </div>
 
-    <!-- Map and Side Panel -->
     <div class="row content">
-
-        <!-- Google Map -->
         <div class="col-md-7">
             <div id="map"></div>
         </div>
-
-        <!-- Side Panel (Controlled by ng-view) -->
         <div ng-view></div>
-
     </div>
     <hr/>
-
-    <!-- Footer -->
     <div class="footer">
-        <p class="text-center"><span class="glyphicon glyphicon-check"></span> Created by Ahmed Haque for Scotch IO -
-            <a href="https://scotch.io/">App Tutorial</a> | <a href="https://github.com/afhaque/MeanMapAppV2.0">Github Repo</a></p>
+        <p class="text-center"><span class="glyphicon glyphicon-check">Copyright @paul 2016</span>
     </div>
 
 </div>
