@@ -11,6 +11,12 @@ angular.module('gservice', [])
         var selectedLat = 39.50;
         var selectedLong = -98.35;
 
+        /**
+         * @name refresh
+         * @param latitude
+         * @param longitude
+         * @param filteredResults
+         */
         googleMapService.refresh = function(latitude, longitude, filteredResults){
             locations = [];
 
@@ -28,7 +34,12 @@ angular.module('gservice', [])
             }
         };
 
-        //private inner functions
+        /**
+         * @name convertToMapPoints
+         * @param response
+         * @description private inner functions
+         * @returns {Array}
+         */
         var convertToMapPoints = function(response){
             var locations = [];
             for(var i= 0; i < response.length; i++) {
@@ -62,9 +73,15 @@ angular.module('gservice', [])
             this.favlang = favlang
         };
 
-        // Initializes the map
+        /**
+         * @name initialize
+         * @param latitude
+         * @param longitude
+         * @param filter
+         * @description Initializes the map
+         */
         var initialize = function(latitude, longitude, filter) {
-            var myLatLng = {lat: selectedLat, lng: selectedLong};
+            var myLatLng = {lat: parseFloat(selectedLat), lng: parseFloat(selectedLong)};
             if (!map){
                 // Create a new map and place in the index.html page
                 var map = new google.maps.Map(document.getElementById('map'), {
